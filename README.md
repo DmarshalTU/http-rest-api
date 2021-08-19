@@ -1,2 +1,2 @@
 # http-rest-api
- GoLang REAT API
+ GoLang REST API
